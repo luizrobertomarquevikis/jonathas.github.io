@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Jonathas Ribeiro
+title:            Luiz Roberto Marquevikis
 locale:           en_US
 url:              https://jonathas.com
 
@@ -26,15 +26,15 @@ kramdown:
 
 # Site owner
 owner:
-  name: Jonathas Ribeiro
+  name: Luiz Roberto Marquevikis
   avatar: jon.jpg
   bio: "Software Developer since 2008, fitness and open source enthusiast, Arch Linux, Debian and Manjaro user, Man Utd supporter."
   location: "Brno, CZ"
-  email: contact@jonathas.com
+  email: luizmarquevikis@gmail.com
   disqus-shortname: jonribeiro
-  twitter: jonathasrr
-  facebook: jonathasrr
-  skype: jonathas_rodrigues
+  twitter: realdjbmk
+  facebook: djbmk
+  skype: luiz.roberto90
   google:
     plus: #JonathasRodrigues
     analytics: UA-63833564-1
